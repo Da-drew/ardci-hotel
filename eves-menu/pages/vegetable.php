@@ -55,7 +55,7 @@
                             <p class="chopsuey-p">
                                 Mixed vegetables with meat simmered in thick sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;240.00</span>
+                            <span class="in-prices">Price: &#8369;288.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Chopsuey" onclick=" vegesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -145,7 +145,7 @@
                             <p class="">
                                 Stir-fried eggplant with pork meat cooked in spicy and savory garlic sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;280.00</span>
+                            <span class="in-prices">Price: &#8369;335.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Spicy-Eggplant" onclick=" vegesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -181,7 +181,7 @@
                             <p class="ginataang-laing">
                                 Dried taro leaves with pork simmered in coconut milk and chili.
                             </p>
-                            <span class="in-prices">Price: &#8369;220.00</span>
+                            <span class="in-prices">Price: &#8369;265.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Ginataang-Laing" onclick=" vegesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -224,27 +224,27 @@
                 </div>
             </a>
 
-            <!-- Sipo Egg card SUBJECT FOR REMOVAL-->
-            <!-- <a role="button" class="cards-anchor col-6">
+            <!-- Special Pakbet-->
+            <a role="button" class="cards-anchor col-6">
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Sipo Egg</h1>
+                            <h1 class="mcc-title">Special Pakbet</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="sipo-egg">
-                                Mixed vegetables, quail eggs and shrimp smothered in rich creamy sauce.
+                                Packed with fresh veggies and rich, savory flavors.
                             </p>
                             <span class="in-prices">Price: &#8369;270.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name="Sipo-Egg" onclick=" vegesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name="Special-Pakbet" onclick=" vegesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
-            </a> -->
+            </a>
 
             <!-- Kare-kare Vegetable card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mcc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Kare-kare Vegetable</h1>

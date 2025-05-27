@@ -20,7 +20,7 @@
                                 <li>Fresh Potato Fries or Mojos</li> 
                                 <li>Iced Tea Pitcher</li>  
                         </div>
-                        <span class="in-prices">Price: &#8369;795.00</span>
+                        <span class="in-prices">Price: &#8369;955.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Snack Package #1' onclick="snackPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                                 <li>Cheese Sticks</li> 
                                 <li>Iced Tea Pitcher</li>  
                         </div>
-                        <span class="in-prices">Price: &#8369;860.00</span>
+                        <span class="in-prices">Price: &#8369;1,035.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Snack Package #2' onclick="snackPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                                 <li>Chicken Nuggets</li> 
                                 <li>Iced Tea Pitcher</li>  
                         </div>
-                        <span class="in-prices">Price: &#8369;825.00</span>
+                        <span class="in-prices">Price: &#8369;990.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Snack Package #3' onclick="snackPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                                 <li>Crispy Onion Rings</li> 
                                 <li class="snack-package-4">Iced Tea Pitcher</li>  
                         </div>
-                        <span class="in-prices">Price: &#8369;960.00</span>
+                        <span class="in-prices">Price: &#8369;1,155.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Snack Package #4' onclick="snackPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>

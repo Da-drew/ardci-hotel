@@ -18,7 +18,7 @@
                             <p class="">
                                 Topped with ham, ground meat, olives bellpepper and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;480.00</span>
+                            <span class="in-prices">Price: &#8369;575.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Supreme-Pizza" onclick="pizzaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -36,7 +36,7 @@
                             <p class="hawaiian-pizza-p">
                                 Topped with ham, pineapple and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;370.00</span>
+                            <span class="in-prices">Price: &#8369;445.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Hawaiian-Pizza" onclick="pizzaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -54,7 +54,7 @@
                             <p class="ardci-pizza-p">
                                 Topped with bacon, ground meat and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;510.00</span>
+                            <span class="in-prices">Price: &#8369;615.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="ARDCI-Pizza" onclick="pizzaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

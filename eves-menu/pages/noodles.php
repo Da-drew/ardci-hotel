@@ -18,7 +18,7 @@
                             <p class="canton-guisado-p">
                                 Stir-fried noodles with meat, vegetables and other ingredients.
                             </p>
-                            <span class="in-prices">Price: &#8369;310.00</span>
+                            <span class="in-prices">Price: &#8369;375.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Canton-Guisado" onclick="noodlesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -54,7 +54,7 @@
                             <p class="bihon-guisado-p">
                                 Thin rice noodles cooked in broth, meat, vegetables and other ingredients.
                             </p>
-                            <span class="in-prices">Price: &#8369;305.00</span>
+                            <span class="in-prices">Price: &#8369;365.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Bihon-Guisado" onclick="noodlesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -72,7 +72,7 @@
                             <p class="">
                                 Vermicelli noodles topped with squid balls, chicken, pork and shrimp mixed with meat broth and vegetables.
                             </p>
-                            <span class="in-prices">Price: &#8369;360.00</span>
+                            <span class="in-prices">Price: &#8369;430.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Sotanghon-Guisado" onclick="noodlesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -90,7 +90,7 @@
                             <p class="canton-bihon-p">
                                 Canton and bihon noodles with pork, chicken, squid balls, and vegetables.
                             </p>
-                            <span class="in-prices">Price: &#8369;305.00</span>
+                            <span class="in-prices">Price: &#8369;370.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Canton-Bihon" onclick="noodlesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -108,7 +108,7 @@
                             <p class="">
                                 Miki and rice noodles topped with squid balls, chicken, pork, and shrimp, mixed with meat broth and vegetables.
                             </p>
-                            <span class="in-prices">Price: &#8369;335.00</span>
+                            <span class="in-prices">Price: &#8369;405.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Miki-Bihon-Guisado" onclick="noodlesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -126,7 +126,7 @@
                             <p class="">
                                 Thick egg noodle soup with vegetables, meat, egg and herb garnishes.
                             </p>
-                            <span class="in-prices">Price: &#8369;300.00</span>
+                            <span class="in-prices">Price: &#8369;360.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Lomi" onclick="noodlesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

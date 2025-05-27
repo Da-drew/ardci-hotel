@@ -20,7 +20,7 @@
                                    <li>Sizzling Sisig or Lumpiang Shanghai</li> 
                                    <li>Free Peanuts</li>
                             </div>
-                            <span class="in-prices beer-price">Price: &#8369;630.00</span>
+                            <span class="in-prices beer-price">Price: &#8369;760.00</span>
                             <div class="add-list-con"><button class="add-list-btn" data-name='Beer Package #1' onclick="beerPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                                    <li>Sizzling Sisig or Lumpiang Shanghai</li> 
                                    <li>Free Peanuts</li>
                             </div>
-                            <span class="in-prices beer-price">Price: &#8369;680.00</span>
+                            <span class="in-prices beer-price">Price: &#8369;820.00</span>
                             <div class="add-list-con"><button class="add-list-btn" data-name='Beer Package #2' onclick="beerPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                                    <li>Sinalpungan or Tokwa't Baboy</li> 
                                    <li>Free Peanuts</li>
                             </div>
-                            <span class="in-prices beer-price">Price: &#8369;910.00</span>
+                            <span class="in-prices beer-price">Price: &#8369;1,095.00</span>
                             <div class="add-list-con"><button class="add-list-btn" data-name='Beer Package #3' onclick="beerPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                                    <li>Sinalpungan or Tokwa't Baboy</li> 
                                    <li>Free Peanuts</li>
                             </div>
-                            <span class="in-prices beer-price">Price: &#8369;960.00</span>
+                            <span class="in-prices beer-price">Price: &#8369;1,155.00</span>
                             <div class="add-list-con"><button class="add-list-btn" data-name='Beer Package #4' onclick="beerPackageArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                         </div>
                     </div>

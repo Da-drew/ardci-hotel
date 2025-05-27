@@ -115,20 +115,20 @@
                 </div>
             </a>
 
-             <!-- Sinigang na Hipon card SUBJECT FOR REMOVAL-->
+             <!-- Grilled Salmon-->
              <a role="button" class="cards-anchor col-6">
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Sinigang na Hipon</h1>
+                            <h1 class="mcc-title">Grilled Salmon</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="">
-                                Shrimp cooked in tamarind-based soup with vegetables.
+                                Perfectly grilled salmon fillet, served with a light, zesty glaze and our signature dipping sauce.
                             </p>
                             <span class="in-prices">Price: &#8369;380.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Sinigang-na-Hipon' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Grilled-Salmon' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>
@@ -137,15 +137,15 @@
                 <div class="menu-categories-card-container flex-grow-1 mccc-right">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Steamed Fish with Lemon Butter Sauce</h1>
+                            <h1 class="mcc-title">Sakana Cheese Roll</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="">
-                                Steamed fish in lemon butter sauce.
+                                Crispy rolls filled with seasoned fish and creamy cheese.
                             </p>
                             <span class="in-prices">Price: &#8369;395.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Steamed-Fish-with-Lemon-Butter-Sauce' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Sakana-Cheese-Roll' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>

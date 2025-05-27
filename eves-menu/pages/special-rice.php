@@ -36,7 +36,7 @@
                             <p class="yangchow-p">
                                 Fried rice, peas, and carrots sauteed in special sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;230.00</span>
+                            <span class="in-prices">Price: &#8369;275.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Yangchow-Fried-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -72,7 +72,7 @@
                             <p class="lechon-rice-p">
                                 Fried rice topped with bits of lechon kawali.
                             </p>
-                            <span class="in-prices">Price: &#8369;290.00</span>
+                            <span class="in-prices">Price: &#8369;345.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Lechon-Fried-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -108,7 +108,7 @@
                             <p class="shanghai-rice-p">
                                 Fried rice topped with shanghai rolls.
                             </p>
-                            <span class="in-prices">Price: &#8369;365.00</span>
+                            <span class="in-prices">Price: &#8369;440.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Shanghai-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -125,7 +125,7 @@
                             <p class="">
                                 Glutinous rice in meat broth, topped with fried tofu, eggs, pares, chicken, herbs, and spices.
                             </p>
-                            <span class="in-prices">Price: &#8369;305.00</span>
+                            <span class="in-prices">Price: &#8369;370.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Congee' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -143,7 +143,7 @@
                             <p class="ardci-rice-p">
                                 Fried rice mixed with bits of hotdog, ham, and egg.
                             </p>
-                            <span class="in-prices">Price: &#8369;270.00</span>
+                            <span class="in-prices">Price: &#8369;325.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='ARDCI-Fried-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

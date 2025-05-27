@@ -73,7 +73,7 @@
                         <p class="beef-mango-p">
                         Crunchy tortilla chips and ground beef topped with nacho cheese and salsa.
                         </p>
-                        <span class="in-prices">Price: &#8369;280.00</span>
+                        <span class="in-prices">Price: &#8369;335.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Beef-Mango-Nachos' onclick="starterArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>

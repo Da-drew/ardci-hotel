@@ -22,7 +22,7 @@
                             <li> Iced Tea Pitcher</li> 
                             <li>Leche Flan or Macaroni Salad</li> 
                         </div>
-                        <span class="in-prices">Price: &#8369;1,065.00</span>
+                        <span class="in-prices">Price: &#8369;1,280.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Group Meal #1" onclick="groupMealArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                                 <li> Iced Tea Pitcher</li> 
                                 <li class='li-group-meal2'>Leche Flan or Macaroni Salad</li> 
                         </div>
-                        <span class="in-prices">Price: &#8369;1,275.00</span>
+                        <span class="in-prices">Price: &#8369;1,530.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Group Meal #2" onclick="groupMealArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                                 <li> Iced Tea Pitcher</li> 
                                 <li class="group-meal3-li">Leche Flan or Macaroni Salad</li> 
                         </div>
-                        <span class="in-prices">Price: &#8369;895.00</span>
+                        <span class="in-prices">Price: &#8369;1,100.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Group Meal #3" onclick="groupMealArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@
                                 <li>Iced Tea Pitcher</li>  
                                 <li>Leche Flan or Macaroni Salad</li> 
                         </div>
-                        <span class="in-prices">Price: &#8369;1,300.00</span>
+                        <span class="in-prices">Price: &#8369;1,560.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Group Meal #4" onclick="groupMealArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                                 <li>Iced Tea Pitcher</li>  
                                 <li>Leche Flan or Macaroni Salad</li> 
                         </div>
-                        <span class="in-prices">Price: &#8369;1,760.00</span>
+                        <span class="in-prices">Price: &#8369;2,115.00</span>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Group Meal #5" onclick="groupMealArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>

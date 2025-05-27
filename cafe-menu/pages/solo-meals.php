@@ -19,7 +19,7 @@
                         <p>
                             Steamed savory and juice pork dumplings.
                         </p>
-                        <span class="in-prices">Price: &#8369;175.00</span>
+                        <span class="in-prices">Price: &#8369;210.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Pork-Siomai'onclick="soloMealsArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -109,7 +109,7 @@
                         <p>
                             Savory and crispy dish made from seasoned pork, onions, and chili.
                         </p>
-                        <span class="in-prices">Price: &#8369;210.00</span>
+                        <span class="in-prices">Price: &#8369;250.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Pork-Sisig'onclick="soloMealsArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -145,7 +145,7 @@
                         <p>
                             Fried rolls filled with savory seasoned pork and vegetables.
                         </p>
-                        <span class="in-prices">Price: &#8369;115.00</span>
+                        <span class="in-prices">Price: &#8369;140.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Pork-Lumpia'onclick="soloMealsArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -163,7 +163,7 @@
                         <p>
                             Breaded and deep-fried pork cutlet. served with a tangy tonkatsu sauce 
                         </p>
-                        <span class="in-prices">Price: &#8369;200.00</span>
+                        <span class="in-prices">Price: &#8369;240.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Tonkatsu'onclick="soloMealsArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -181,7 +181,7 @@
                         <p>
                            Grilled marinated pork belly.
                         </p>
-                        <span class="in-prices">Price: &#8369;205.00</span>
+                        <span class="in-prices">Price: &#8369;250.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Pork-Liempo'onclick="soloMealsArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>

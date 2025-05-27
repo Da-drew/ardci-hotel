@@ -18,7 +18,7 @@
                             <p class="">
                                 Special juicy patty with a slice of pineapple and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;220.00</span>
+                            <span class="in-prices">Price: &#8369;264.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Ultimate-Burger" onclick="burgerArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -36,7 +36,7 @@
                             <p class="">
                                 Special juicy patty with ham, bacon, lettuce and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;230.00</span>
+                            <span class="in-prices">Price: &#8369;275.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Happy-Island-Burger" onclick="burgerArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -54,7 +54,7 @@
                             <p class="bmc-p">
                                 Bacon, Mushroom and Cheese burger.
                             </p>
-                            <span class="in-prices">Price: &#8369;260.00</span>
+                            <span class="in-prices">Price: &#8369;315.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="BMC" onclick="burgerArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

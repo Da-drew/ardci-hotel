@@ -37,7 +37,7 @@
                         <p class="longsi-p">
                             Locally-made sausage, fried rice and egg.
                         </p>
-                        <span class="in-prices">Price: &#8369;195.00</span>
+                        <span class="in-prices">Price: &#8369;235.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Longsilog'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -55,7 +55,7 @@
                         <p class="toci-p">
                             Cured pork belly, fried rice and egg.
                         </p>
-                        <span class="in-prices">Price: &#8369;150.00</span>
+                        <span class="in-prices">Price: &#8369;180.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Tocilog'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -73,7 +73,7 @@
                         <p class="toci-p">
                             Fried hotdogs, fried rice and egg.
                         </p>
-                        <span class="in-prices">Price: &#8369;110.00</span>
+                        <span class="in-prices">Price: &#8369;135.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Hotsilog'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -91,7 +91,7 @@
                         <p class="porksilog-p">
                             Fried marinated pork, fried rice and egg.
                         </p>
-                        <span class="in-prices">Price: &#8369;150.00</span>
+                        <span class="in-prices">Price: &#8369;180.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Porksilog'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -109,7 +109,7 @@
                         <p class="pork-egg-p">
                             Breaded pork chop, fried rice and egg.
                         </p>
-                        <span class="in-prices">Price: &#8369;165.00</span>
+                        <span class="in-prices">Price: &#8369;200.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Porkchop-and-Egg'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>

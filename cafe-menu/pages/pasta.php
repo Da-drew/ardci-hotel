@@ -37,7 +37,7 @@
                             <p class="bolognese-p">
                                 Spaghetti pasta in bolognese sauce infused with red wine and herbs.
                             </p>
-                            <span class="in-prices">Price: &#8369;345.00</span>
+                            <span class="in-prices">Price: &#8369;415.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Bolognese" onclick="pastaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -89,13 +89,13 @@
                                     <div class="form-check">
                                         <input class="form-check-input rice-checkbox" type="radio" name="spaghettiR" id="spaghettiPlater">
                                         <label class="form-check-label rice-checbox-label" for="spaghettiPlater">
-                                            &#8369;280.00 (platter)
+                                            &#8369;336.00 (platter)
                                         </label>
                                     </div>
                                     <div class="form-check">
                                         <input class="form-check-input rice-checkbox" type="radio" name="spaghettiR" id="spaghettiSingle">
                                         <label class="form-check-label rice-checbox-label" for="spaghettiSingle">
-                                            &#8369;200.00 (single)
+                                            &#8369;240.00 (single)
                                         </label>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                             <p class="">
                                 Macaroni pasta in red sauce mixed with bacon and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;150.00</span>
+                            <span class="in-prices">Price: &#8369;180.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Bacon,-Mac-&-Cheese" onclick="pastaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -136,7 +136,7 @@
                             <p class="">
                                 Baked penne pasta with ground meat, red sauce, infused with red wine and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;495.00</span>
+                            <span class="in-prices">Price: &#8369;595.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Baked-Ziti" onclick="pastaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -154,7 +154,7 @@
                             <p class="">
                                 Lasagna sheets with ground meat and cheese in-between with red sauce infused with red wine and cream cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;290.00</span>
+                            <span class="in-prices">Price: &#8369;350.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Lasagna-w/-Cream-Cheese" onclick="pastaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

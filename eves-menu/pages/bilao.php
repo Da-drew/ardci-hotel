@@ -22,19 +22,19 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="bihonGuisado" id="bihonGuisadoSmall">
                                     <label class="form-check-label rice-checbox-label" for="bihonGuisadoSmall">
-                                        &#8369;400.00 (S)
+                                        &#8369;480.00 (S)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="bihonGuisado" id="bihonGuisadoMedium">
                                     <label class="form-check-label rice-checbox-label" for="bihonGuisadoMedium">
-                                        &#8369;540.00 (M)
+                                        &#8369;650.00 (M)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="bihonGuisado" id="bihonGuisadoLarge">
                                     <label class="form-check-label rice-checbox-label" for="bihonGuisadoLarge">
-                                        &#8369;970.00 (L)
+                                        &#8369;1,165.00 (L)
                                     </label>
                                 </div>
                             </div>
@@ -59,19 +59,19 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="pancitCantonGuisado" id="pancitCantonGuisadoSmall">
                                     <label class="form-check-label rice-checbox-label" for="pancitCantonGuisadoSmall">
-                                        &#8369;400.00 (S)
+                                        &#8369;480.00 (S)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="pancitCantonGuisado" id="pancitCantonGuisadoMedium">
                                     <label class="form-check-label rice-checbox-label" for="pancitCantonGuisadoMedium">
-                                        &#8369;540.00 (M)
+                                        &#8369;650.00 (M)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="pancitCantonGuisado" id="pancitCantonGuisadoLarge">
                                     <label class="form-check-label rice-checbox-label" for="pancitCantonGuisadoLarge">
-                                        &#8369;1040.00 (L)
+                                        &#8369;1,250.00 (L)
                                     </label>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="carbonara" id="carbonaraLarge">
                                     <label class="form-check-label rice-checbox-label" for="carbonaraLarge">
-                                        &#8369;955.00 (L)
+                                        &#8369;950.00 (L)
                                     </label>
                                 </div>
                             </div>
@@ -133,19 +133,19 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="spag" id="spagSmall">
                                     <label class="form-check-label rice-checbox-label" for="spagSmall">
-                                        &#8369;390.00 (S)
+                                        &#8369;470.00 (S)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="spag" id="spagMedium">
                                     <label class="form-check-label rice-checbox-label" for="carbonaraMedium">
-                                        &#8369;590.00 (M)
+                                        &#8369;770.00 (M)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="spag" id="spagLarge">
                                     <label class="form-check-label rice-checbox-label" for="carbonaraLarge">
-                                        &#8369;850.00 (L)
+                                        &#8369;1020.00 (L)
                                     </label>
                                 </div>
                             </div>
@@ -160,7 +160,7 @@
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Sotanghon</h1>
+                            <h1 class="mcc-title">Sotanghon Guisado</h1>
                         </div>
                         <div class="mcc-ing bilao-bspace">
                             <p class="sotanghon-p">
@@ -170,19 +170,19 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="sotanghon" id="sotanghonSmall">
                                     <label class="form-check-label rice-checbox-label" for="sotanghonSmall">
-                                        &#8369;375.00 (S)
+                                        &#8369;620.00 (S)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="sotanghon" id="sotanghonMedium">
                                     <label class="form-check-label rice-checbox-label" for="sotanghonMedium">
-                                        &#8369;540.00 (M)
+                                        &#8369;1,000.00 (M)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="sotanghon" id="sotanghonLarge">
                                     <label class="form-check-label rice-checbox-label" for="sotanghonLarge">
-                                        &#8369;750.00 (L)
+                                        &#8369;1,710.00 (L)
                                     </label>
                                 </div>
                             </div>
@@ -207,19 +207,19 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="mikiBihon" id="mikiBihonSmall">
                                     <label class="form-check-label rice-checbox-label" for="mikiBihonSmall">
-                                        &#8369;375.00 (S)
+                                        &#8369;555.00 (S)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="mikiBihon" id="mikiBihonMedium">
                                     <label class="form-check-label rice-checbox-label" for="mikiBihonMedium">
-                                        &#8369;540.00 (M)
+                                        &#8369;835.00 (M)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="mikiBihon" id="mikiBihonLarge">
                                     <label class="form-check-label rice-checbox-label" for="mikiBihonLarge">
-                                        &#8369;750.00 (L)
+                                        &#8369;1400.00 (L)
                                     </label>
                                 </div>
                             </div>
@@ -234,7 +234,7 @@
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Bihon</h1>
+                            <h1 class="mcc-title">Bihon Canton</h1>
                         </div>
                         <div class="mcc-ing bilao-bspace">
                             <p class="bihon-p">
@@ -244,19 +244,19 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="bihon" id="bihonSmall">
                                     <label class="form-check-label rice-checbox-label" for="bihonSmall">
-                                        &#8369;330.00 (S)
+                                        &#8369;400.00 (S)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="bihon" id="bihonMedium">
                                     <label class="form-check-label rice-checbox-label" for="bihonMedium">
-                                        &#8369;585.00 (M)
+                                        &#8369;705.00 (M)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="bihon" id="bihonLarge">
                                     <label class="form-check-label rice-checbox-label" for="bihonLarge">
-                                        &#8369;985.00 (L)
+                                        &#8369;1,185.00 (L)
                                     </label>
                                 </div>
                             </div>

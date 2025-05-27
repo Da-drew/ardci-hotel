@@ -204,5 +204,23 @@
                     </div>
                 </div>
             </a>
+
+            <!-- Rib eye Steak card -->
+            <a role="button" class="cards-anchor col-6">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
+                    <div class="mcc-ing-preview">
+                        <div class="mcc-tilte-head">
+                            <h1 class="mcc-title">Rib Eye Steak</h1>
+                        </div>
+                        <div class="mcc-ing">
+                            <p class="beef-with-broccoli-p">
+                                Grilled ribeye steak served with creamy mashed potatoes and buttered vegetables.
+                            </p>
+                            <span class="in-prices">Price: &#8369;370.00</span>
+                        </div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Rib-Eye-Steak' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                    </div>
+                </div>
+            </a>
            
 <?php include 'includes-pages/footer.php'?>

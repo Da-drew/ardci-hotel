@@ -74,7 +74,7 @@
                             <p class="beef-mango-p">
                                 Crunchy tortilla chips and ground beef topped with nacho cheese and salsa.
                             </p>
-                            <span class="in-prices">Price: &#8369;280.00</span>
+                            <span class="in-prices">Price: &#8369;335.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-Mango-Nachos' onclick="starterArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -135,24 +135,24 @@
                 </div>
             </a>
 
-            <!-- Quesadilla card SUBJECT FOR REMOVAL-->
-            <!-- <a role="button" class="col-6 cards-anchor">
+            <!-- Tofu Sisig-->
+            <a role="button" class="col-6 cards-anchor">
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Quesadilla</h1>
+                            <h1 class="mcc-title">Tofu Sisig</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="quesadilla-p">
-                                Pressed pita bread with cheese, meat and  spices.
+                                Crispy tofu cubes tossed in a flavorful, savory-sizzling sisig mix.
                             </p>
-                            <span class="in-prices">Price: &#8369;280.00</span>
+                            <span class="in-prices">Price: &#8369;315.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Quesadilla' onclick="starterArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Tofu-Sisig' onclick="starterArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                     
                 </div>
-            </a> -->
+            </a>
 
 
 <?php include 'includes-pages/footer.php'?>
