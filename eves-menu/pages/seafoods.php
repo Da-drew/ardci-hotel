@@ -126,14 +126,14 @@
                             <p class="">
                                 Perfectly grilled salmon fillet, served with a light, zesty glaze and our signature dipping sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;380.00</span>
+                            <span class="in-prices">Price: &#8369;700.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Grilled-Salmon' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>
 
-            <a role="button" class="cards-anchor col-6">
+            <!-- <a role="button" class="cards-anchor col-6">
                 <div class="menu-categories-card-container flex-grow-1 mccc-right">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
@@ -148,14 +148,14 @@
                         <div class="add-list-con"><button class="add-list-btn" data-name='Sakana-Cheese-Roll' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
-            </a>
+            </a> -->
 
             <!-- Fish Fillet Escabeche card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container flex-grow-1 mccc-right">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Fish Fillet Escabeche</h1>
+                            <h1 class="mcc-title">Tuna Fillet Escabeche</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="ff-escabeche-p">
@@ -169,7 +169,7 @@
             </a>
 
             <!-- Sweet and Sour Fish Fillet card -->
-            <a role="button" class="cards-anchor col-6">
+            <!-- <a role="button" class="cards-anchor col-6">
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
@@ -184,7 +184,7 @@
                         <div class="add-list-con"><button class="add-list-btn" data-name='Sweet-and-Sour-Fish-Fillet' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
-            </a>
+            </a> -->
 
             <!-- Tanigue with Vegetables card -->
             <a role="button" class="cards-anchor col-6">
@@ -227,7 +227,7 @@
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Spicy Fish w/ Mushroom & Onion</h1>
+                            <h1 class="mcc-title">Spicy Tanigue w/ Mushroom & Onion</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="">
@@ -245,6 +245,24 @@
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
+                            <h1 class="mcc-title">Spicy Blue Marlin w/ Mushroom & Onion</h1>
+                        </div>
+                        <div class="mcc-ing">
+                            <p class=>
+                                Fish with chili flakes mixed with mushroom and onion, served in sizzling plate.
+                            </p>
+                            <span class="in-prices">Price: &#8369;370.00</span>
+                        </div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Spicy-Blue-Marlin-w/-Mushroom-&-Onion' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Spicy Blue Marlin or Tanigue card -->
+            <a role="button" class="cards-anchor col-6">
+                <div class="menu-categories-card-container flex-grow-1">
+                    <div class="mcc-ing-preview">
+                        <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Spicy Blue Marlin or Tanigue</h1>
                         </div>
                         <div class="mcc-ing">
@@ -260,7 +278,7 @@
 
             <!-- Kinilaw na Blue Marlin or Tanigue card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Kinilaw na Blue Marlin or Tanigue</h1>
@@ -278,7 +296,7 @@
 
             <!-- Calamares card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container mccc-right flex-grow-1">
+                <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Calamares</h1>
@@ -296,10 +314,10 @@
 
             <!-- Grilled Fish card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Grilled Fish</h1>
+                            <h1 class="mcc-title">Grilled <span style="font-size: 1.2rem">Blue Marlin/Tanigue</span></h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="grilled-fish-p">
@@ -307,17 +325,17 @@
                             </p>
                             <span class="in-prices">Price: &#8369;395.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Grilled-Fish' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Grilled-Blue-Marlin/Tanigue<' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>
 
             <!-- Sizzling Fish card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container mccc-right flex-grow-1">
+                <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Sizzling Fish</h1>
+                            <h1 class="mcc-title">Sizzling <span style="font-size: 1.2rem">Blue Marlin/Tanigue</span></h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="">
@@ -325,7 +343,7 @@
                             </p>
                             <span class="in-prices">Price: &#8369;395.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Sizzling-Fish' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Sizzling-Blue-Marlin/Tanigue' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>
@@ -333,7 +351,7 @@
             <!-- NEW !!!! -->
             <!-- Sizzling Gambas card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Sizzling Gambas</h1>
@@ -350,7 +368,7 @@
             </a>
 
             <!--Shrimp Lumpia card -->
-            <a role="button" class="cards-anchor col-6">
+            <!-- <a role="button" class="cards-anchor col-6">
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
@@ -365,7 +383,7 @@
                         <div class="add-list-con"><button class="add-list-btn" data-name='Shrimp-Lumpia' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
-            </a>
+            </a> -->
 
              <!-- Fish and Tofu Sisig card -->
              <a role="button" class="cards-anchor col-6">
@@ -426,15 +444,15 @@
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Crabsticks</h1>
+                            <h1 class="mcc-title">Crispy Fried Crabsticks</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="">
                                 Crispy, golden-brown crabsticks
                             </p>
-                            <span class="in-prices">Price: &#8369;155.00</span>
+                            <span class="in-prices">Price: &#8369;165.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Crabsticks' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Crispy-Fried-Crabsticks' onclick="seafoodArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>

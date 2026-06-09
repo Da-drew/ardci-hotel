@@ -19,7 +19,7 @@
                         <p class="">
                             A colorful Filipino dessert layered with shaved ice, sweetened fruits, beans, and jellies, topped with leche flan and purple yam.
                         </p>
-                        <span class="in-prices">Price: &#8369;180.00</span>
+                        <span class="in-prices">Price: &#8369;200.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name="Halo-halo" onclick="dessertArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>

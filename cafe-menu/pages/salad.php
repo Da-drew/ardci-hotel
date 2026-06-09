@@ -13,7 +13,7 @@
             <div class="menu-categories-card-container flex-grow-1">
                 <div class="mcc-ing-preview">
                     <div class="mcc-tilte-head">
-                        <h1 class="mcc-title">ARDCI Chef's Salad</h1>
+                        <h1 class="mcc-title">ARDCI Chef Salad</h1>
                     </div>
                     <div class="mcc-ing">
                         <p class="ardci-salad-p">
@@ -55,7 +55,7 @@
                         <p class="ceasar-salad-p">
                         Lettuce with croutons dressed with olive oil, lemon juice and balsamic vinegar.
                         </p>
-                        <span class="in-prices">Price: &#8369;220.00</span>
+                        <span class="in-prices">Price: &#8369;280.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Ceasar-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -73,29 +73,47 @@
                         <p class="">
                         Boiled cubed potatoes and pineapple slices in creamy salad sauce.
                         </p>
-                        <span class="in-prices">Price: &#8369;235.00</span>
+                        <span class="in-prices">Price: &#8369;450.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Hawaiian-Potato-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
             </div>
         </a>
-          <!-- Creamy Carrot Salad card -->
-          <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
-                    <div class="mcc-ing-preview">
-                        <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Creamy Carrot Salad</h1>
-                        </div>
-                        <div class="mcc-ing">
-                            <p class="ceasar-salad-p">
-                                Shredded carrots with velvet and creamy dressing.
-                            </p>
-                            <span class="in-prices">Price: &#8369;170.00</span>
-                        </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Creamy-Carrot-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+        <!-- Creamy Carrot Salad card -->
+        <a role="button" class="cards-anchor col-6">
+            <div class="menu-categories-card-container flex-grow-1">
+                <div class="mcc-ing-preview">
+                    <div class="mcc-tilte-head">
+                        <h1 class="mcc-title">Creamy Carrot Salad</h1>
                     </div>
+                    <div class="mcc-ing">
+                        <p class="ceasar-salad-p">
+                            Shredded carrots with velvet and creamy dressing.
+                        </p>
+                        <span class="in-prices">Price: &#8369;170.00</span>
+                    </div>
+                    <div class="add-list-con"><button class="add-list-btn" data-name='Creamy-Carrot-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
-            </a>
+            </div>
+        </a>
+
+        <!-- Macaroni card -->
+        <a role="button" class="cards-anchor col-6">
+            <div class="menu-categories-card-container flex-grow-1">
+                <div class="mcc-ing-preview">
+                    <div class="mcc-tilte-head">
+                        <h1 class="mcc-title">Macaroni Salad</h1>
+                    </div>
+                    <div class="mcc-ing">
+                        <p class="ceasar-salad-p">
+                            Tender macaroni pasta in a smooth, creamy house dressing. A sweet, savory, and timeless favorite.
+                        </p>
+                        <span class="in-prices">Price: &#8369;275.00</span>
+                    </div>
+                    <div class="add-list-con"><button class="add-list-btn" data-name='Creamy-Carrot-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                </div>
+            </div>
+        </a>
     </div>
 </div>
 

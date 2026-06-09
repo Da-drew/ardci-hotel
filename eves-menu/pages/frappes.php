@@ -18,7 +18,7 @@
                             <p class="">
                                 Strawberry syrup, milk, and crushed ice topped with whipped cream.
                             </p>
-                            <span class="in-prices">Price: &#8369;190.00</span>
+                            <span class="in-prices">Price: &#8369;195.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Berry Velvet' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -36,7 +36,7 @@
                             <p class="">
                                 Java chips, choco, milk, crushed ice, topped with whipped cream.
                             </p>
-                            <span class="in-prices">Price: &#8369;175.00</span>
+                            <span class="in-prices">Price: &#8369;220.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Javalicious' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -54,7 +54,7 @@
                             <p class="crusty-crunch">
                                 Oreo cookies blended with milk, crushed ice, topped with whipped cream and crushed oreo.
                             </p>
-                            <span class="in-prices">Price: &#8369;145.00</span>
+                            <span class="in-prices">Price: &#8369;160.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Crusty Crunch' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -72,7 +72,7 @@
                             <p class="">
                                 Strawberry syrup and cucumber slices blended with milk, crushed ice and topped with whipped cream.
                             </p>
-                            <span class="in-prices">Price: &#8369;125.00</span>
+                            <span class="in-prices">Price: &#8369;130.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Strawberry Cucumber' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -126,7 +126,7 @@
                             <p class="">
                                 Java chip powder, peppermint syrup blended with milk, crushed ice and topped with whipped cream.
                             </p>
-                            <span class="in-prices">Price: &#8369;220.00</span>
+                            <span class="in-prices">Price: &#8369;275.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Java Peppermint' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -198,7 +198,7 @@
                                 <p class="">
                                     Vanilla powder and strawberry syrup blended with vanilla ice cream, milk, crushed ice, topped with whipped cream.
                                 </p>
-                                <span class="in-prices">Price: &#8369;190.00</span>
+                                <span class="in-prices">Price: &#8369;250.00</span>
                             </div>
                             <div class="add-list-con"><button class="add-list-btn" data-name='Vanilla Strawberry' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                         </div>
@@ -217,7 +217,7 @@
                             <p class="">
                                 A blend of ripe mango and creamy cheese, topped with whipped cream.
                             </p>
-                            <span class="in-prices">Price: &#8369;220.00</span>
+                            <span class="in-prices">Price: &#8369;230.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Cheesy Mango' onclick="frappesArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

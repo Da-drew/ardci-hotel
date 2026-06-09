@@ -163,7 +163,7 @@
                             <p class="toci-p">
                                 Corned beef, fried rice and egg.
                             </p>
-                            <span class="in-prices">Price: &#8369;150.00</span>
+                            <span class="in-prices">Price: &#8369;200.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Cornsilog'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -181,7 +181,7 @@
                             <p class="mixed-tuna-p">
                                 Tuna omelette served with toasted bread.
                             </p>
-                            <span class="in-prices">Price: &#8369;180.00</span>
+                            <span class="in-prices">Price: &#8369;205.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Mixed-Tuna'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -199,7 +199,7 @@
                             <p class="ham-p">
                                 Ham & mushroom omelette served with toasted bread.
                             </p>
-                            <span class="in-prices">Price: &#8369;145.00</span>
+                            <span class="in-prices">Price: &#8369;200.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Ham-&-Mushroom-Omelette'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -217,7 +217,7 @@
                             <p class="vegeomelet-p">
                                 Mixed vegetable omelette served with toasted bread.
                             </p>
-                            <span class="in-prices">Price: &#8369;190.00</span>
+                            <span class="in-prices">Price: &#8369;200.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Vegetable-Omelette'onclick="allDayBArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

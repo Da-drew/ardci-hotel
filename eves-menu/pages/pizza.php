@@ -72,7 +72,7 @@
                             <p class="">
                                 Topped with parmesan, melted cheese and cheddar cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;410.00</span>
+                            <span class="in-prices">Price: &#8369;600.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="3-Cheese-Pizza" onclick="pizzaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

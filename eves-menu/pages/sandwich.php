@@ -90,7 +90,7 @@
                             <p class="">
                                 White bread, bacon, ham, cheese, vegetable, and fresh potato wedges.
                             </p>
-                            <span class="in-prices">Price: &#8369;255.00</span>
+                            <span class="in-prices">Price: &#8369;325.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Liberty" onclick="sandwichArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

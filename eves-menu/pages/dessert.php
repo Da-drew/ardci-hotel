@@ -89,7 +89,7 @@
                             <p class="">
                                 Sweet palm fruits, sweet beans, young coconut strips and jelly, served with crushed ice and milk topped with ube, ice cream and leche flan.
                             </p>
-                            <span class="in-prices">Price: &#8369;180.00</span>
+                            <span class="in-prices">Price: &#8369;200.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Halo-Halo' onclick="dessertArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

@@ -32,7 +32,7 @@ function addCartNumber() {
       JSON.parse(sessionStorage.getItem("All Day Breakfast")) || [],
     localPizza = JSON.parse(sessionStorage.getItem("Pizza")) || [],
     localBurger = JSON.parse(sessionStorage.getItem("Burger")) || [];
-  (localPasta = JSON.parse(sessionStorage.getItem("Pasta")) || []),
+  ((localPasta = JSON.parse(sessionStorage.getItem("Pasta")) || []),
     (localBread = JSON.parse(sessionStorage.getItem("Bread")) || []),
     (localSandwich = JSON.parse(sessionStorage.getItem("Sandwich")) || []),
     (localnoodles = JSON.parse(sessionStorage.getItem("Noodles")) || []),
@@ -41,13 +41,14 @@ function addCartNumber() {
     (localfrappes = JSON.parse(sessionStorage.getItem("Frappes")) || []),
     (localsmoothies = JSON.parse(sessionStorage.getItem("Smoothies")) || []),
     (localflavoredDrinks =
-      JSON.parse(sessionStorage.getItem("Flavored Drinks")) || []);
-  (localotherDrinks = JSON.parse(sessionStorage.getItem("Other Drinks")) || []),
-    (localgroupMeal = JSON.parse(sessionStorage.getItem("Group Meal")) || []);
-  (localsnackPackage =
+      JSON.parse(sessionStorage.getItem("Flavored Drinks")) || []));
+  ((localotherDrinks =
+    JSON.parse(sessionStorage.getItem("Other Drinks")) || []),
+    (localgroupMeal = JSON.parse(sessionStorage.getItem("Group Meal")) || []));
+  ((localsnackPackage =
     JSON.parse(sessionStorage.getItem("Snack Package")) || []),
     (localbeerPackage =
-      JSON.parse(sessionStorage.getItem("Beer Package")) || []);
+      JSON.parse(sessionStorage.getItem("Beer Package")) || []));
 
   // adding the string length
   orderNumTotal =
@@ -119,7 +120,7 @@ function allOrdertosessionStorage() {
   if (allDayBList != "") {
     window.sessionStorage.setItem(
       "All Day Breakfast",
-      JSON.stringify(allDayBList)
+      JSON.stringify(allDayBList),
     );
   }
   if (pizzaList != "") {
@@ -155,13 +156,13 @@ function allOrdertosessionStorage() {
   if (flavoredDrinksList != "") {
     window.sessionStorage.setItem(
       "Flavored Drinks",
-      JSON.stringify(flavoredDrinksList)
+      JSON.stringify(flavoredDrinksList),
     );
   }
   if (otherDrinksList != "") {
     window.sessionStorage.setItem(
       "Other Drinks",
-      JSON.stringify(otherDrinksList)
+      JSON.stringify(otherDrinksList),
     );
   }
   if (groupMealList != "") {
@@ -170,13 +171,13 @@ function allOrdertosessionStorage() {
   if (snackPackageList != "") {
     window.sessionStorage.setItem(
       "Snack Package",
-      JSON.stringify(snackPackageList)
+      JSON.stringify(snackPackageList),
     );
   }
   if (beerPackageList != "") {
     window.sessionStorage.setItem(
       "Beer Package",
-      JSON.stringify(beerPackageList)
+      JSON.stringify(beerPackageList),
     );
   }
 
@@ -268,7 +269,7 @@ function steamedRice() {
       allOrdertosessionStorage();
 
       alert(
-        "The dish called Steamed Rice (Platter) has been included in the list."
+        "The dish called Steamed Rice (Platter) has been included in the list.",
       );
     } else {
       alert("Steamed Rice (Platter) already added in the list.");
@@ -282,14 +283,14 @@ function steamedRice() {
       allOrdertosessionStorage();
 
       alert(
-        "The dish called Steamed Rice (Cup) has been included in the list."
+        "The dish called Steamed Rice (Cup) has been included in the list.",
       );
     } else {
       alert("Steamed Rice (Cup) already added in the list.");
     }
   } else if (rPlater.checked == false && rCup.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 }
@@ -306,7 +307,7 @@ function garlicFRice() {
       allOrdertosessionStorage();
 
       alert(
-        "The dish called Garlic Fried Rice (Platter) has been included in the list."
+        "The dish called Garlic Fried Rice (Platter) has been included in the list.",
       );
     } else {
       alert("Garlic Fried Rice (Platter) already added in the list.");
@@ -320,14 +321,14 @@ function garlicFRice() {
       allOrdertosessionStorage();
 
       alert(
-        "The dish called Garlic Fried Rice (Cup) has been included in the list."
+        "The dish called Garlic Fried Rice (Cup) has been included in the list.",
       );
     } else {
       alert("Garlic Fried Rice (Cup) already added in the list.");
     }
   } else if (gRPlater.checked == false && gRCup.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 }
@@ -397,7 +398,7 @@ function friedChicken() {
   }
   if (chickHalf.checked == false && chickenWhole.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -428,7 +429,7 @@ function crispyChicken() {
   }
   if (crisChikHalf.checked == false && crisChikWhole.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -459,7 +460,7 @@ function butteredChicken() {
   }
   if (butteredChikHalf.checked == false && butteredChikWhole.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -490,7 +491,7 @@ function chiceknBBQ() {
   }
   if (chikBbqHalf.checked == false && chikBbqWhole.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -509,14 +510,9 @@ function chiceknBBQ() {
   }
 }
 function chickenWings() {
-  var chickwingsHoney = document.getElementById("chickwingsHoney"),
-    chickwingsBuffalo = document.getElementById("chickwingsBuffalo"),
+  var chickwingsBuffalo = document.getElementById("chickwingsBuffalo"),
     chickwingsParmesan = document.getElementById("chickwingsParmesan"),
     dataName;
-
-  if (chickwingsHoney.checked == true) {
-    dataName = "Chicken Wings (Honey Garlic)";
-  }
   if (chickwingsBuffalo.checked == true) {
     dataName = "Chicken Wings (Buffalo)";
   }
@@ -524,12 +520,11 @@ function chickenWings() {
     dataName = "Chicken Wings (Parmesan Cheese)";
   }
   if (
-    chickwingsHoney.checked == false &&
     chickwingsBuffalo.checked == false &&
     chickwingsParmesan.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -771,7 +766,7 @@ function cabonara() {
   }
   if (carbonaraPlatter.checked == false && carbonaraSingle.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -803,7 +798,7 @@ function spaghetti() {
   }
   if (spaghettiPlatter.checked == false && spaghettiSingle.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -920,7 +915,7 @@ function bihonGuisadoBilao() {
     bihonGuisadoLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -960,7 +955,7 @@ function pancitCantonGuisadoBilao() {
     pancitCantonLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1000,7 +995,7 @@ function carbonaraBilao() {
     carbonaraLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1040,7 +1035,7 @@ function spagBilao() {
     spagLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1080,7 +1075,7 @@ function sotanghonBilao() {
     sotanghonBilaoLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1120,7 +1115,7 @@ function bihonBilao() {
     bihonBilaoLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1160,7 +1155,7 @@ function mikiBihonBilao() {
     mikiBilaoLarge.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1224,7 +1219,7 @@ function americano() {
     americanoCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1264,7 +1259,7 @@ function cafeLatte() {
     cafeLatteCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1304,7 +1299,7 @@ function whiteChocoLatte() {
     whiteChocoLatteCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1344,7 +1339,7 @@ function cappuccino() {
     capuccinoCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1384,7 +1379,7 @@ function mochaccino() {
     mochaccinoCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1424,7 +1419,7 @@ function caramelMacchiato() {
     caramelMacchiatoCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1464,7 +1459,7 @@ function irishLatte() {
     irishLatteCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1504,7 +1499,7 @@ function darkChocoMoha() {
     darkChocoMochaCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1544,7 +1539,7 @@ function hazelnutLatte() {
     hazelnutLatteCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1584,7 +1579,7 @@ function saltedCaramelMc() {
     saltedCaramelMcCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1618,7 +1613,7 @@ function icedOreoBomb() {
     icedOreoBombCold16.checked == false
   ) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1746,7 +1741,7 @@ function calamansiJuice() {
   }
   if (calamsiHot.checked == false && calamansiCold.checked == false) {
     alert(
-      "Please ensure that the checkbox is selected before proceeding with your order."
+      "Please ensure that the checkbox is selected before proceeding with your order.",
     );
   }
 
@@ -1955,7 +1950,7 @@ window.addEventListener("load", () => {
         dessertListOrder = JSON.parse(sessionStorage.getItem("Dessert")),
         // dessert
         allDayBListOrder = JSON.parse(
-          sessionStorage.getItem("All Day Breakfast")
+          sessionStorage.getItem("All Day Breakfast"),
         ),
         // pizza
         pizzaListOrder = JSON.parse(sessionStorage.getItem("Pizza")),
@@ -1979,21 +1974,21 @@ window.addEventListener("load", () => {
         smoothiesListOrder = JSON.parse(sessionStorage.getItem("Smoothies")),
         // flavored Drinks
         flavoredDrinksListOrder = JSON.parse(
-          sessionStorage.getItem("Flavored Drinks")
+          sessionStorage.getItem("Flavored Drinks"),
         ),
         // other drinks
         otherDrinksListOrder = JSON.parse(
-          sessionStorage.getItem("Other Drinks")
+          sessionStorage.getItem("Other Drinks"),
         ),
         // group meal
         groupMealListOrder = JSON.parse(sessionStorage.getItem("Group Meal")),
         // snack package
         snackPackageListOrder = JSON.parse(
-          sessionStorage.getItem("Snack Package")
+          sessionStorage.getItem("Snack Package"),
         ),
         // snack package
         beerPackageListOrder = JSON.parse(
-          sessionStorage.getItem("Beer Package")
+          sessionStorage.getItem("Beer Package"),
         );
 
       // starter condition
@@ -2986,7 +2981,7 @@ function QuantityDelete(clicked_object) {
     smoothiesListOrder = JSON.parse(sessionStorage.getItem("Smoothies")),
     // Flavored Drinks
     flavoredDrinksListOrder = JSON.parse(
-      sessionStorage.getItem("Flavored Drinks")
+      sessionStorage.getItem("Flavored Drinks"),
     ),
     // Other Drinks
     otherDrinksListOrder = JSON.parse(sessionStorage.getItem("Other Drinks")),
@@ -3032,7 +3027,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Special Rice",
-        JSON.stringify(spRiceOrders)
+        JSON.stringify(spRiceOrders),
       );
       break;
     case "beef":
@@ -3089,7 +3084,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Vegetable",
-        JSON.stringify(vegesListOrder)
+        JSON.stringify(vegesListOrder),
       );
       break;
     case "dessert":
@@ -3101,7 +3096,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Dessert",
-        JSON.stringify(dessertListOrder)
+        JSON.stringify(dessertListOrder),
       );
       break;
     case "allDayB":
@@ -3113,7 +3108,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "All Day Breakfast",
-        JSON.stringify(allDayBListOrder)
+        JSON.stringify(allDayBListOrder),
       );
       break;
     case "pizza":
@@ -3161,7 +3156,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Sandwich",
-        JSON.stringify(sandwichListOrder)
+        JSON.stringify(sandwichListOrder),
       );
       break;
     case "noodles":
@@ -3173,7 +3168,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Noodles",
-        JSON.stringify(noodlesListOrder)
+        JSON.stringify(noodlesListOrder),
       );
       break;
     case "bilao":
@@ -3203,7 +3198,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Frappes",
-        JSON.stringify(frappesListOrder)
+        JSON.stringify(frappesListOrder),
       );
       break;
     case "smoothies":
@@ -3215,7 +3210,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Smoothies",
-        JSON.stringify(smoothiesListOrder)
+        JSON.stringify(smoothiesListOrder),
       );
       break;
     case "flavoredDrinks":
@@ -3223,14 +3218,14 @@ function QuantityDelete(clicked_object) {
       if (flavoredDrinksListOrder.includes(dataName)) {
         flavoredDrinksListOrder.splice(
           flavoredDrinksListOrder.indexOf(dataName),
-          1
+          1,
         );
       }
 
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Flavored Drinks",
-        JSON.stringify(flavoredDrinksListOrder)
+        JSON.stringify(flavoredDrinksListOrder),
       );
       break;
     case "otherDrinks":
@@ -3242,7 +3237,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Other Drinks",
-        JSON.stringify(otherDrinksListOrder)
+        JSON.stringify(otherDrinksListOrder),
       );
       break;
     case "groupMeal":
@@ -3254,7 +3249,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Group Meal",
-        JSON.stringify(groupMealListOrder)
+        JSON.stringify(groupMealListOrder),
       );
       break;
     case "snackPackage":
@@ -3262,14 +3257,14 @@ function QuantityDelete(clicked_object) {
       if (snackPackageListOrder.includes(dataName)) {
         snackPackageListOrder.splice(
           snackPackageListOrder.indexOf(dataName),
-          1
+          1,
         );
       }
 
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Snack Package",
-        JSON.stringify(snackPackageListOrder)
+        JSON.stringify(snackPackageListOrder),
       );
       break;
     case "beerPackage":
@@ -3281,7 +3276,7 @@ function QuantityDelete(clicked_object) {
       // set the new array that will store in local storage
       window.sessionStorage.setItem(
         "Beer Package",
-        JSON.stringify(beerPackageListOrder)
+        JSON.stringify(beerPackageListOrder),
       );
       break;
   }
@@ -3445,7 +3440,7 @@ function QuantityAdd(clicked_object) {
       allDayBOrder = allDayBList.push(dataName);
       window.sessionStorage.setItem(
         "All Day Breakfast",
-        JSON.stringify(allDayBList)
+        JSON.stringify(allDayBList),
       );
       break;
     case "pizza":
@@ -3492,35 +3487,35 @@ function QuantityAdd(clicked_object) {
       flavoredDrinksOrder = flavoredDrinksList.push(dataName);
       window.sessionStorage.setItem(
         "Flavored Drinks",
-        JSON.stringify(flavoredDrinksList)
+        JSON.stringify(flavoredDrinksList),
       );
       break;
     case "otherDrinks":
       otherDrinksOrder = otherDrinksList.push(dataName);
       window.sessionStorage.setItem(
         "Other Drinks",
-        JSON.stringify(otherDrinksList)
+        JSON.stringify(otherDrinksList),
       );
       break;
     case "groupMeal":
       groupMealOrder = groupMealList.push(dataName);
       window.sessionStorage.setItem(
         "Group Meal",
-        JSON.stringify(groupMealList)
+        JSON.stringify(groupMealList),
       );
       break;
     case "snackPackage":
       snackPackageOrder = snackPackageList.push(dataName);
       window.sessionStorage.setItem(
         "Snack Package",
-        JSON.stringify(snackPackageList)
+        JSON.stringify(snackPackageList),
       );
       break;
     case "beerPackage":
       beerPackageOrder = beerPackageList.push(dataName);
       window.sessionStorage.setItem(
         "Beer Package",
-        JSON.stringify(beerPackageList)
+        JSON.stringify(beerPackageList),
       );
       break;
   }

@@ -287,13 +287,13 @@
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="darkChocoMocha" id="darkChocoMochaCold12">
                                     <label class="form-check-label rice-checbox-label" for="darkChocoMochaCold12">
-                                        &#8369;125.00 (Cold) (12oz)
+                                        &#8369;135.00 (Cold) (12oz)
                                     </label>
                                 </div>
                                 <div class="form-check form-bilao">
                                     <input class="form-check-input rice-checkbox" type="radio" name="darkChocoMocha" id="darkChocoMochaCold16">
                                     <label class="form-check-label rice-checbox-label" for="darkChocoMochaCold16">
-                                        &#8369;130.00 (Cold) (16oz)
+                                        &#8369;140.00 (Cold) (16oz)
                                     </label>
                                 </div>
                             </div>

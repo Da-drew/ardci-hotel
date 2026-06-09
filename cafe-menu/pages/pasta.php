@@ -58,7 +58,7 @@
                                     <div class="form-check">
                                         <input class="form-check-input rice-checkbox" type="radio" name="carbonaraR" id="carbonaraPlater">
                                         <label class="form-check-label rice-checbox-label" for="carbonaraPlater">
-                                            &#8369;320.00 (platter)
+                                            &#8369;520.00 (platter)
                                         </label>
                                     </div>
                                     <div class="form-check">
@@ -89,7 +89,7 @@
                                     <div class="form-check">
                                         <input class="form-check-input rice-checkbox" type="radio" name="spaghettiR" id="spaghettiPlater">
                                         <label class="form-check-label rice-checbox-label" for="spaghettiPlater">
-                                            &#8369;336.00 (platter)
+                                            &#8369;380.00 (platter)
                                         </label>
                                     </div>
                                     <div class="form-check">
@@ -118,7 +118,7 @@
                             <p class="">
                                 Macaroni pasta in red sauce mixed with bacon and cheese.
                             </p>
-                            <span class="in-prices">Price: &#8369;180.00</span>
+                            <span class="in-prices">Price: &#8369;315.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Bacon,-Mac-&-Cheese" onclick="pastaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -172,7 +172,7 @@
                             <p class="italian-sardines-p">
                                 Spaghetti pasta in olive oil and spanish sardines topped with garlic and other herbs.
                             </p>
-                            <span class="in-prices">Price: &#8369;250.00</span>
+                            <span class="in-prices">Price: &#8369;465.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Italian-Sardines" onclick="pastaArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

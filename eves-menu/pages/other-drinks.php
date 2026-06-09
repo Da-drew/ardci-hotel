@@ -72,7 +72,7 @@
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Hot Tea</h1>
+                            <h1 class="mcc-title">Hot Tea (Taylors)</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="other-drinks-p">
@@ -90,22 +90,40 @@
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Cold Tea <br> <span class="ct-sub">Flavors: Raspberry, Green Apple</span></h1>
+                            <h1 class="mcc-title">Raspberry Cold Tea</h1>
                         </div>
                         <div class="mcc-ing">
                             <p class="other-drinks-p">
                                 <!-- Flavored tea in ice. -->
                             </p>
-                            <span class="in-prices">Price: &#8369;90.00</span>
+                            <span class="in-prices">Price: &#8369;115.00</span>
                         </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Cold Tea' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Raspberry Cold Tea' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
                 </div>
             </a>
 
-            <!-- Iced Tea Pitcher card -->
+            <!-- Green Apple Tea -->
             <a role="button" class="cards-anchor col-6">
                 <div class="menu-categories-card-container mccc-right flex-grow-1">
+                    <div class="mcc-ing-preview">
+                        <div class="mcc-tilte-head">
+                            <h1 class="mcc-title">Green Apple Cold Tea</span></h1>
+                        </div>
+                        <div class="mcc-ing">
+                            <p class="other-drinks-p">
+                                <!-- Flavored tea in ice. -->
+                            </p>
+                            <span class="in-prices">Price: &#8369;115.00</span>
+                        </div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name='Green Apple Cold Tea' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                    </div>
+                </div>
+            </a
+
+            <!-- Iced Tea Pitcher card -->
+            <a role="button" class="cards-anchor col-6">
+                <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Iced Tea Pitcher</h1>
@@ -123,7 +141,7 @@
 
             <!-- Cucumber Lemonade Pitcher card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Cucumber Lemonade Pitcher</h1>
@@ -141,7 +159,7 @@
 
             <!-- Blue Lemonade Pitcher card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container mccc-right flex-grow-1">
+                <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Blue Lemonade Pitcher</h1>
@@ -150,7 +168,7 @@
                             <p class="other-drinks-p">
                                 <!-- Blue lemonade powder served in pitcher. -->
                             </p>
-                            <span class="in-prices">Price: &#8369;175.00</span>
+                            <span class="in-prices">Price: &#8369;215.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Blue Lemonade Pitcher' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -159,7 +177,7 @@
 
             <!-- Coke in can card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Coke in can</h1>
@@ -168,7 +186,7 @@
                             <p class="other-drinks-p">
                                 <!-- Coke in can. -->
                             </p>
-                            <span class="in-prices">Price: &#8369;65.00</span>
+                            <span class="in-prices">Price: &#8369;85.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Coke in can' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -177,7 +195,7 @@
 
             <!-- Royal in can card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container mccc-right flex-grow-1">
+                <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Royal in can</h1>
@@ -186,7 +204,7 @@
                             <p class="other-drinks-p">
                                 <!-- Royal in can. -->
                             </p>
-                            <span class="in-prices">Price: &#8369;65.00</span>
+                            <span class="in-prices">Price: &#8369;85.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Royal in can' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -195,7 +213,7 @@
 
             <!-- Pineapple in can  card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mccc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Pineapple in can <br> <span class="del-monte-sub">(Del Monte)</span></h1>
@@ -204,7 +222,7 @@
                             <p class="other-drinks-p">
                                 <!-- Pineapple in can. -->
                             </p>
-                            <span class="in-prices">Price: &#8369;65.00</span>
+                            <span class="in-prices">Price: &#8369;85.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Pineapple in can (Del Monte)' onclick="otherDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -213,7 +231,7 @@
 
             <!-- Four Seasons card -->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container mccc-right flex-grow-1">
+                <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Four Seasons <br> <span class="del-monte-sub">(Del Monte)</span></h1>

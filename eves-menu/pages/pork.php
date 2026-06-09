@@ -91,7 +91,7 @@
                             <p class="pork-bbq-p">
                                 Marinated pork slices, skewered and grilled.
                             </p>
-                            <span class="in-prices">Price: &#8369;320.00</span>
+                            <span class="in-prices">Price: &#8369;350.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Pork-BBQ" onclick="porkArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -344,7 +344,7 @@
                             <p class="">
                                 Tender baby back ribs glazed in our signature sweet and smoky sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;230.00</span>
+                            <span class="in-prices">Price: &#8369;750.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Baby-Back-Ribs" onclick="porkArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

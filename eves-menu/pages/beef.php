@@ -18,7 +18,7 @@
                             <p class="">
                                 Beef marinated in herbs and spices, cooked until tender and topped with garlic.
                             </p>
-                            <span class="in-prices">Price: &#8369;360.00</span>
+                            <span class="in-prices">Price: &#8369;420.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-Tapa' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -72,7 +72,7 @@
                             <p class="">
                                 Tender beef pieces sauteed with mixed vegetables.
                             </p>
-                            <span class="in-prices">Price: &#8369;350.00</span>
+                            <span class="in-prices">Price: &#8369;400.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-and-Veggies' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -90,7 +90,7 @@
                             <p class="">
                                 Originally a Russian cuisine, sauteed tender beef sirlion with heavy and creamy white sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;390.00</span>
+                            <span class="in-prices">Price: &#8369;400.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-Stroganoff' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -108,7 +108,7 @@
                             <p class="beef-curry-p">
                                 Tender beef mixed with potatoes, carrots, bell peppers and braised in coconut milk and curry spices.
                             </p>
-                            <span class="in-prices">Price: &#8369;360.00</span>
+                            <span class="in-prices">Price: &#8369;400.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-Curry' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -126,7 +126,7 @@
                             <p class="beef-salpicao-p">
                                 Stir-fried beef flavored with butter, garlic, red chili pepper flakes set in a sizzling plate.
                             </p>
-                            <span class="in-prices">Price: &#8369;350.00</span>
+                            <span class="in-prices">Price: &#8369;400.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-Salpicao' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -144,7 +144,7 @@
                             <p class="nilagang-baka-p">
                                 Beef chunks simmered with cabbage, corn, in savory broth.
                             </p>
-                            <span class="in-prices">Price: &#8369;370.00</span>
+                            <span class="in-prices">Price: &#8369;450.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Nilagang-Baka' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -180,7 +180,7 @@
                             <p class="beef-with-broccoli-p">
                                 Tender slices of beef and broccoli in a savory garlic sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;370.00</span>
+                            <span class="in-prices">Price: &#8369;480.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Beef-With-Broccoli' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -188,7 +188,7 @@
             </a>
 
                  <!-- Bulalo -->
-                 <a role="button" class="cards-anchor col-6 col-6">
+            <a role="button" class="cards-anchor col-6 col-6">
                 <div class="menu-categories-card-container flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
@@ -198,7 +198,7 @@
                             <p class="bulalo-p">
                                 Beef shank and marrow simmered with vegetables in a savory broth.
                             </p>
-                            <span class="in-prices">Price: &#8369;440.00</span>
+                            <span class="in-prices">Price: &#8369;600.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Bulalo' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -216,7 +216,7 @@
                             <p class="beef-with-broccoli-p">
                                 Grilled ribeye steak served with creamy mashed potatoes and buttered vegetables.
                             </p>
-                            <span class="in-prices">Price: &#8369;370.00</span>
+                            <span class="in-prices">Price: &#8369;850.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Rib-Eye-Steak' onclick="beefArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

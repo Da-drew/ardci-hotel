@@ -54,7 +54,7 @@
                             <p class="tinapa-rice-p">
                                 Fried rice with tinapa bits.
                             </p>
-                            <span class="in-prices">Price: &#8369;270.00</span>
+                            <span class="in-prices">Price: &#8369;300.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Tinapa-Fried-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -72,7 +72,7 @@
                             <p class="lechon-rice-p">
                                 Fried rice topped with bits of lechon kawali.
                             </p>
-                            <span class="in-prices">Price: &#8369;345.00</span>
+                            <span class="in-prices">Price: &#8369;450.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Lechon-Fried-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -108,7 +108,7 @@
                             <p class="shanghai-rice-p">
                                 Fried rice topped with shanghai rolls.
                             </p>
-                            <span class="in-prices">Price: &#8369;440.00</span>
+                            <span class="in-prices">Price: &#8369;300.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Shanghai-Rice' onclick="riceArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

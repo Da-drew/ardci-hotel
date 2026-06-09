@@ -37,7 +37,7 @@
                         <p class="">
                             Passion fruit syrup with fresh lemon base.
                         </p>
-                        <span class="in-prices">Price: &#8369;175.00</span>
+                        <span class="in-prices">Price: &#8369;270.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Passion Fruit Lemonade' onclick="flavoredDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -55,7 +55,7 @@
                         <p class="ginger-lemonade-p">
                             Fresh ginger mixed with fresh lemon base.
                         </p>
-                        <span class="in-prices">Price: &#8369;155.00</span>
+                        <span class="in-prices">Price: &#8369;215.00</span>
                     </div>
                     <div class="add-list-con"><button class="add-list-btn" data-name='Ginger Lemonade' onclick="flavoredDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                 </div>
@@ -127,7 +127,7 @@
                             <p class="ginger-lemonade-p">
                                 Watermelon-flavored sparkling drink.
                             </p>
-                            <span class="in-prices">Price: &#8369;120.00</span>
+                            <span class="in-prices">Price: &#8369;135.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Watermelon Soda' onclick="flavoredDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -145,7 +145,7 @@
                             <p class="">
                                 Fizzling drink with a taste of ripe kiwi.
                             </p>
-                            <span class="in-prices">Price: &#8369;125.00</span>
+                            <span class="in-prices">Price: &#8369;135.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Kiwi Soda' onclick="flavoredDrinksArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

@@ -54,7 +54,7 @@
                             <p class="ceasar-salad-p">
                                 Lettuce with croutons dressed with olive oil, lemon juice and balsamic vinegar.
                             </p>
-                            <span class="in-prices">Price: &#8369;220.00</span>
+                            <span class="in-prices">Price: &#8369;280.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Ceasar-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -72,7 +72,7 @@
                             <p class="">
                                 Boiled cubed potatoes and pineapple slices in creamy salad sauce.
                             </p>
-                            <span class="in-prices">Price: &#8369;235.00</span>
+                            <span class="in-prices">Price: &#8369;450.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name='Hawaiian-Potato-Salad' onclick="saladArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>

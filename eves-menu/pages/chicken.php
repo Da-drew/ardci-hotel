@@ -28,7 +28,7 @@
                                 <div class="form-check">
                                     <input class="form-check-input rice-checkbox" type="radio" name="friedChicken" id="friedChickenWhole">
                                     <label class="form-check-label rice-checbox-label" for="friedChickenWhole">
-                                        &#8369;610.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(6pcs)</span>
+                                        &#8369;620.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(12pcs)</span>
                                     </label>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@
                                 <div class="form-check">
                                     <input class="form-check-input rice-checkbox" type="radio" name="crispyChicken" id="crispyChickenWhole">
                                     <label class="form-check-label rice-checbox-label" for="crispyChickenWhole">
-                                    &#8369;610.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(6pcs)</span>
+                                    &#8369;610.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(12pcs)</span>
                                     </label>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                 <div class="form-check">
                                     <input class="form-check-input rice-checkbox" type="radio" name="butteredChicken" id="butteredChickenWhole">
                                     <label class="form-check-label rice-checbox-label" for="butteredChickenWhole">
-                                    &#8369;685.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(6pcs)</span>
+                                    &#8369;685.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(12pcs)</span>
                                     </label>
                                 </div>
                             </div>
@@ -115,13 +115,13 @@
                                 <div class="form-check">
                                     <input class="form-check-input rice-checkbox" type="radio" name="chickenBBQ" id="chickenBBQHalf">
                                     <label class="form-check-label rice-checbox-label" for="chickenBBQHalf">
-                                     &#8369;290.00 <span style="font-size: 13px; font-weight: 600">Half</span> <span style="font-size: 11px">(6pcs)</span>
+                                     &#8369;300.00 <span style="font-size: 13px; font-weight: 600">Half</span> <span style="font-size: 11px">(6pcs)</span>
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input rice-checkbox" type="radio" name="chickenBBQ" id="chickenBBQWhole">
                                     <label class="form-check-label rice-checbox-label" for="chickenBBQWhole">
-                                    &#8369;565.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(6pcs)</span>
+                                    &#8369;650.00 <span style="font-size: 13px; font-weight: 600">Whole</span> <span style="font-size: 11px">(12pcs)</span>
                                     </label>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
                             <p class="">
                                 Chicken breast molded to nuggets, breaded and fixed with herb-seasoned mayo dip.
                             </p>
-                            <span class="in-prices">Price: &#8369;300.00</span>
+                            <span class="in-prices">Price: &#8369;310.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Chicken-Nuggets-w/-Mayo-Dip" onclick="chickenArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -190,6 +190,32 @@
                 <div class="menu-categories-card-container flex-grow-1 mccc-right">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
+                            <h1 class="mcc-title">Chicken Wings (Honey Garlic)</h1>
+                        </div>
+                        <div class="mcc-ing">
+                            <p class="">
+                                Chicken wings marinated and seasoned with choice of sauce.
+                            </p>
+                            <!-- <div class="check-wings">
+                                <div class="form-check">
+                                    <input class="form-check-input rice-checkbox" type="radio" name="chickwings" id="chickwingsHoney">
+                                    <label class="form-check-label rice-checbox-label" for="chickwingsHoney">
+                                        Honey
+                                    </label>
+                                </div>
+                            </div> -->
+                            <span class="in-prices">Price: &#8369;545.00</span>
+                        </div>
+                        <div class="add-list-con"><button class="add-list-btn" data-name="Chicken-Wings-(Honey-Garlic)" onclick="chickenArray(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Chicken Wings card extension -->
+            <a role="button" class="cards-anchor col-6">
+                <div class="menu-categories-card-container flex-grow-1">
+                    <div class="mcc-ing-preview">
+                        <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Chicken Wings</h1>
                         </div>
                         <div class="mcc-ing">
@@ -197,12 +223,6 @@
                                 Chicken wings marinated and seasoned with choice of sauce.
                             </p>
                             <div class="check-wings">
-                                <div class="form-check">
-                                    <input class="form-check-input rice-checkbox" type="radio" name="chickwings" id="chickwingsHoney">
-                                    <label class="form-check-label rice-checbox-label" for="chickwingsHoney">
-                                        Honey Garlic
-                                    </label>
-                                </div>
                                 <div class="form-check">
                                     <input class="form-check-input rice-checkbox" type="radio" name="chickwings" id="chickwingsBuffalo">
                                     <label class="form-check-label rice-checbox-label" for="chickwingsBuffalo">
@@ -217,7 +237,7 @@
                                 </div>
                                 
                             </div>
-                            <span class="in-prices">Price: &#8369;545.00</span>
+                            <span class="in-prices">Price: &#8369;250.00</span>
                         </div>
                         <div class="add-list-con"><button class="add-list-btn" data-name="Chicken-Teriyaki" onclick="chickenWings(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
                     </div>
@@ -226,7 +246,7 @@
 
             <!-- Sweet Hawaiian Chicken Card-->
             <a role="button" class="cards-anchor col-6">
-                <div class="menu-categories-card-container flex-grow-1">
+                <div class="menu-categories-card-container mcc-right flex-grow-1">
                     <div class="mcc-ing-preview">
                         <div class="mcc-tilte-head">
                             <h1 class="mcc-title">Sweet Hawaiian Chicken</h1>

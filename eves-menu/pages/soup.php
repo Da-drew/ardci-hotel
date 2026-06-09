@@ -7,23 +7,6 @@
             <p class="catg-subtitle starter-sub-title">Good for 3-4 persons</p>
         </div>
         <div class="row">
-            <!-- Pumpkin Soup card SUBJECT FOR REMOVAL-->
-            <!-- <a role="button" class="col-6 cards-anchor">
-                <div class="menu-categories-card-container flex-grow-1">
-                    <div class="mcc-ing-preview">
-                        <div class="mcc-tilte-head">
-                            <h1 class="mcc-title">Pumpkin Soup</h1>
-                        </div>
-                        <div class="mcc-ing">
-                            <p class="pumpkin-soup-p">
-                                Pumpkin puree blended with meat broth.
-                            </p>
-                            <span class="in-prices">Price: &#8369;240.00</span>
-                        </div>
-                        <div class="add-list-con"><button class="add-list-btn" data-name='Pumpkin-Soup' onclick="soupArrayy(this)"><i class="fa-solid fa-clipboard-list"></i> Order</button></div>
-                    </div>
-                </div>
-            </a> -->
 
             <!-- Crab and Corn Soup card -->
             <a role="button" class="col-6 cards-anchor">
