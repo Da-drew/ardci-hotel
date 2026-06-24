@@ -9,7 +9,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">King Suite</h1>
-            <p class="sub-prices">Php 5,200.00 / night</p>
+            <p class="sub-prices">Php 6,300.00 / night</p>
         </div>
         <div class="row">
             <div class="col-lg-6 order-2 order-lg-1">
@@ -101,8 +101,8 @@
       </div>
       <div class="modal-body row">
         <div class="name-room-modal">
-            <h1 class="name-modal">Queen Suite</h1>
-            <p class="sub-prices">Php 4,900.00 / night</p>
+            <h1 class="name-modal">Double Queen Suite</h1>
+            <p class="sub-prices">Php 6,000.00 / night</p>
         </div>
         <div class="row">
             <div class="col-lg-6 order-2 order-lg-1">
@@ -206,7 +206,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Triple Suite</h1>
-            <p class="sub-prices">Php 3,900.00 / night</p>
+            <p class="sub-prices">Php 4,800.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -303,7 +303,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Superior Suite</h1>
-            <p class="sub-prices">Php 3,300.00 / night</p>
+            <p class="sub-prices">Php 4,000.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -399,7 +399,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Executive A</h1>
-            <p class="sub-prices">Php 3,000.00 / night</p>
+            <p class="sub-prices">Php 3,700.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -484,11 +484,6 @@
                                     <img src="assets/image/execA-8.jpg" class="img-fluid d-block mx-auto image-modal" alt="executive a">
                                 </a>
                             </div>
-                            <div class="king-img--2 item">
-                                <a href="assets/image/execA-9.jpg" class="ExeAModal">
-                                    <img src="assets/image/execA-9-view.jpg" class="img-fluid d-block mx-auto image-modal" alt="executive a">
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -509,7 +504,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Executive B & C</h1>
-            <p class="sub-prices">Php 2,600.00 / night</p>
+            <p class="sub-prices">Php 3,300.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -610,7 +605,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Deluxe A</h1>
-            <p class="sub-prices">Php 2,400.00 / night</p>
+            <p class="sub-prices">Php 3,000.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -705,7 +700,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Deluxe B</h1>
-            <p class="sub-prices">Php 2,400.00 / night</p>
+            <p class="sub-prices">Php 3,000.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -800,7 +795,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Standard Deluxe</h1>
-            <p class="sub-prices">Php 1,900.00 / night</p>
+            <p class="sub-prices">Php 2,300.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -888,8 +883,8 @@
       </div>
       <div class="modal-body row">
         <div class="name-room-modal">
-            <h1 class="name-modal">Economy Single</h1>
-            <p class="sub-prices">Php 1,400.00 / night</p>
+            <h1 class="name-modal">Single Economy</h1>
+            <p class="sub-prices">Php 1,750.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -988,8 +983,8 @@
       </div>
       <div class="modal-body row">
         <div class="name-room-modal">
-            <h1 class="name-modal">Economy Double</h1>
-            <p class="sub-prices">Php 1,600.00 / night</p>
+            <h1 class="name-modal">Double Economy</h1>
+            <p class="sub-prices">Php 2,000.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -1084,7 +1079,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Economy 1</h1>
-            <p class="sub-prices">Php 5,900.00 / night</p>
+            <p class="sub-prices">Php 7,700.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
@@ -1182,7 +1177,7 @@
       <div class="modal-body row">
         <div class="name-room-modal">
             <h1 class="name-modal">Economy 2</h1>
-            <p class="sub-prices">Php 6,400.00 / night</p>
+            <p class="sub-prices">Php 8,800.00 / night</p>
         </div>
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="desc-room-modal">
